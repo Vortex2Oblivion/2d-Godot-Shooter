@@ -1,0 +1,8 @@
+[gd_scene format=2]
+
+[node name="RichTextLabel" type="RichTextLabel"]
+margin_right = 178.0
+margin_bottom = 41.0
+bbcode_enabled = true
+bbcode_text = "[rainbow freq=0.1 sat=10 val=50]GODOT IS GREAT[/rainbow]"
+text = "GODOT IS GREAT"
